@@ -16,3 +16,7 @@ but continental-scale measurements have not previously been made.
 # Simulations
 We simulate the evolution of the particle sizes as they are
 transported from the source region.
+
+# Methodology
+We compared our measurements of particle aging with a model simulation.
+The model is detailed in Smith et al 2002.
